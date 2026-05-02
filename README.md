@@ -1,4 +1,4 @@
-# 🛒 Mini Ecommerce – Catálogo em Cards
+# FelpsTech – Catálogo em Cards
 
 ## Autor
 
