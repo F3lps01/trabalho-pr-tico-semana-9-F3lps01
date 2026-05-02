@@ -1,7 +1,6 @@
-.card {
-  border-radius: 8px;
-}
-
 .highlight {
   background-color: yellow;
+  border: 2px solid red;
+  transform: scale(1.03);
+  transition: 0.3s;
 }
